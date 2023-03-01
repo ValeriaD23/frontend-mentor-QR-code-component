@@ -1,0 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&display=swap');
+
+.container {
+  width: 16.875rem;
+  height: auto;
+  margin: auto;
+  margin-top: 150px;
+  padding: 20px;
+  font-family: 'Outfit', sans-serif;
+  font-size: .9375rem;
+  text-align: center;
+}
+
+h5 {
+  font-weight: 700;
+}
